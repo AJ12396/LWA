@@ -1,0 +1,39 @@
+body{
+  background-color: #e6e6fa;
+  text-align: center;
+}
+
+h1{
+  color: purple;
+  border-style: solid;
+  border-color: purple;
+  border-width: 1p;
+}
+
+#anime{
+  font-size: 27px
+}
+
+a{
+  color: purple;
+  font-size: 15px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: purple;
+  padding: 3px;
+  border-radius: 25px;
+}
+
+p{
+  color: darked;
+  font-variant: small-caps;
+  font-size: 20px;
+  font-family: arial
+}
+
+.sobre{
+  color: darked;
+  font-size: 20px;
+  font-family: arial;
+  font-variant: small-caps;
+}
